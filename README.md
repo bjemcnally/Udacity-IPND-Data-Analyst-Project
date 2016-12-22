@@ -1,12 +1,12 @@
-#Udacity-IPND-Data-Science-Elective
+#Udacity-IPND-Data-Analyst-Project
 
 ###Final Project for Udacity Intro to Programming Nanodegree (IPND)
 
-###Data Science Elective
+###Data Analyst Elective
 
 ####by Joy | bjemcnally | bjemcnally@gmail.com
 
-Started: 
+Started: 12/22/2016
 
 First submitted:
 
