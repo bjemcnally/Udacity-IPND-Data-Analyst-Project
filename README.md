@@ -8,7 +8,7 @@
 
 Started: 12/22/2016
 
-First submitted:
+First submitted: 12/29/2016
 
 Met specifications:
 
