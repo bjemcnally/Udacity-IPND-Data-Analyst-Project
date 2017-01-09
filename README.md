@@ -10,7 +10,7 @@ Started: 12/22/2016
 
 First submitted: 12/29/2016
 
-Met specifications:
+Met specifications: 12/31/2016
 
 ####Project Description:
 
